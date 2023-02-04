@@ -19,25 +19,11 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/JAVA-FF7800?style=flat&logo=JAVA&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
-<br>
-
-
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Vultr-007BFC?style=flat&logo=Vultr&logoColor=white"/>
 
 <br>
 
