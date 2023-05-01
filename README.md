@@ -32,9 +32,9 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 
 <br>
-<p>만들어본 목록</p>
-  <a herf='https://github.com/Jodayday/pinterest_django'>핀터레스트프로젝트</a> : 로그인, 마이페이지, 글쓰기 등 pinterest 기능 클론 제작
-  <a herf='https://github.com/Jodayday/webtoon'>웹툰프로젝트</a> : 검색기능, 카테고리별 검색, 북마크 등 목록관리하는 기능 제작
+<p>만들어본 목록</p> 
+<a herf='https://github.com/Jodayday/pinterest_django'>핀터레스트프로젝트</a> : 로그인, 마이페이지, 글쓰기 등 pinterest 기능 클론 제작
+<a herf='https://github.com/Jodayday/webtoon'>웹툰프로젝트</a> : 검색기능, 카테고리별 검색, 북마크 등 목록관리하는 기능 제작
 
 
 
